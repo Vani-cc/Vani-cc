@@ -12,8 +12,10 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fashleywixted.squarespace.com%2Fnew-page-copy&psig=AOvVaw1pbcuFyeQaZMmisGo6KAJj&ust=1742862133337000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKi52My5oYwDFQAAAAAdAAAAABBH"  />
+  <img height="200" src="https://images.squarespace-cdn.com/content/v1/5c702bc465019f9573ec4c2b/1630094368745-GB8NVYEVVHB2UKX8Y3FU/final+with+character+in+window.gif?format=750w"  />
 </div>
 
 ###
@@ -55,6 +57,8 @@
 
 ###
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vani-cc/Vani-cc/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vani-cc/Vani-cc/output/pacman-contribution-graph.svg">
@@ -64,7 +68,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Vani-cc&theme=dark" alt="Layout with last medium posts"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vani-cc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vani-cc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
