@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">My name is vania, and I'm  estudiante de Ing. En Software & Sistemas Computacionales .</p>
+<p align="left">My name is Vania and I am a student of Software and Computer Systems Engineering.</p>
 
 ###
 
